@@ -14,7 +14,7 @@ void ejercicio3()
     char continuar;
     do
     {
-        cout << "Ingresa un numero: ";
+        cout << "\nIngresa un numero: ";
         cin >> numero;
         cout << "Quiere continuar? (S/N): ";
         cin >> continuar;

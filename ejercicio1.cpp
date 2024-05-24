@@ -22,18 +22,18 @@ void funcion1()
         }
     } while (num != 9999);
 
-    cout << "El valor acumulado es de: " << suma << endl;
+    cout << "\nEl valor acumulado es de: " << suma << endl;
 
     if (suma == 0)
     {
-        cout << "El valor acumulado es igual a cero";
+        cout << "\nEl valor acumulado es igual a cero";
     }
     else if (suma > 0)
     {
-        cout << "El valor acumulado es mayor a 0";
+        cout << "\nEl valor acumulado es mayor a 0";
     }
     else
     {
-        cout << "El valor es menor a 0";
+        cout << "\nEl valor es menor a 0";
     }
 }

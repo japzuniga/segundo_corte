@@ -1,5 +1,6 @@
 #include <iostream>
 #include "ejercicio1.cpp"
+#include "ejercicio2.cpp"
 #include "ejercicio3.cpp"
 using namespace std;
 
@@ -19,6 +20,7 @@ main() {
                 funcion1();
                 break;
             case 2:
+                funcion2();
                 break;
             case 3:
                 ejercicio3();
