@@ -1,7 +1,7 @@
 /*Escriba un programa que solicite ingresar diferentes números a la 
 vez y que pueda repetir indefinidamente si el usuario lo desea (que el 
 ordenador pregunte ¿Quiere continuar? y la persona pueda responder 
-S o N. utilizando do while*/
+S o N.*/
 
 #include <iostream>
 
